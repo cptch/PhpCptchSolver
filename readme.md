@@ -3,7 +3,7 @@
 
 Вы можете установить этот пакет используя `composer`:
 
-`composer require cptch/PhpExample`
+`composer require cptch/php-solver`
 
 # Пример использования
 Примеры использования лежат в папке `demo`
