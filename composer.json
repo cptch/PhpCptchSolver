@@ -1,0 +1,14 @@
+{
+  "name": "cptch/PhpExample",
+  "description": "Cptch.net API example for automatic captcha solving tasks",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Cptch\\": "src/"
+    }
+  },
+  "require": {
+    "ext-curl": "*",
+    "php": ">=5.3"
+  }
+}
