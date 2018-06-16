@@ -1,5 +1,5 @@
 {
-  "name": "cptch/PhpExample",
+  "name": "cptch/php-solver",
   "description": "Cptch.net API example for automatic captcha solving tasks",
   "type": "library",
   "autoload": {
