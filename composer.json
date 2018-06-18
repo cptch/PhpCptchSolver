@@ -2,6 +2,7 @@
   "name": "cptch/php-solver",
   "description": "Cptch.net API example for automatic captcha solving tasks",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Cptch\\": "src/"
